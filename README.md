@@ -4,6 +4,8 @@ This sample project has the following:
 - a consumer that retrieves messages from RabbitMQ
 - a producer that sends messages to RabbitMQ
 
+![Sample Usage](https://user-images.githubusercontent.com/7297625/214550753-f54368ad-5fde-4b3f-8654-ac5c2d611bb6.png)
+
 ## Running the Project
 
 - To run the consumer, execute the following command:
